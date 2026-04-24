@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("csharp-for-csc-112")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+41cc71b37903e62fc936c7a2699674d329ec0cad")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+630e6d1fc8c0c7731252ce92c6720dec00dd03c7")]
 [assembly: System.Reflection.AssemblyProductAttribute("csharp-for-csc-112")]
 [assembly: System.Reflection.AssemblyTitleAttribute("csharp-for-csc-112")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
