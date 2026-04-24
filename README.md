@@ -2,12 +2,12 @@
 
 This project is a simple University Management System designed to demonstrate the core principles of Object-Oriented Programming (OOP) using C#. It was created for a **CSC 112 (100 Level)** presentation.
 
-## 🚀 Overview
+## Overview
 The system models relationship between people in a school (Students and Lecturers) to show how code can be organized as "Objects" rather than just instructions.
 
 ---
 
-## 🛠️ OOP Concepts Explained
+## OOP Concepts Explained
 
 ### 1. Classes & Objects
 - **The Blueprint**: See `Person.cs`. This class defines what every "Person" has (Name, Age).
@@ -29,13 +29,13 @@ The system models relationship between people in a school (Students and Lecturer
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 - `Program.cs`: The starting point of the application.
 - `Person.cs`: The **Base Class** (Parent).
 - `Student.cs`: A **Derived Class** representing a student.
 - `Lecturer.cs`: A **Derived Class** representing a lecturer.
 
-## 🏃 How to Run
+## How to Run
 1. Ensure you have the [.NET SDK](https://dotnet.microsoft.com/download) installed.
 2. Open your terminal in the project folder.
 3. Run the following command:
