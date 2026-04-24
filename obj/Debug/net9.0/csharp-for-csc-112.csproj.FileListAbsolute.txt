@@ -12,3 +12,4 @@
 /home/komma/Documents/Projects/csharp-for-csc-112/obj/Debug/net9.0/csharp-for-csc-112.pdb
 /home/komma/Documents/Projects/csharp-for-csc-112/obj/Debug/net9.0/csharp-for-csc-112.genruntimeconfig.cache
 /home/komma/Documents/Projects/csharp-for-csc-112/obj/Debug/net9.0/ref/csharp-for-csc-112.dll
+/home/komma/Documents/Projects/csharp-for-csc-112/obj/Debug/net9.0/csharp-for-csc-112.sourcelink.json
