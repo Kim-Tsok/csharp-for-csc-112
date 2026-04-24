@@ -1,0 +1,15 @@
+/home/komma/Documents/Projects/csharp-for-csc-112/example-3/bin/Debug/net9.0/example-3
+/home/komma/Documents/Projects/csharp-for-csc-112/example-3/bin/Debug/net9.0/example-3.deps.json
+/home/komma/Documents/Projects/csharp-for-csc-112/example-3/bin/Debug/net9.0/example-3.runtimeconfig.json
+/home/komma/Documents/Projects/csharp-for-csc-112/example-3/bin/Debug/net9.0/example-3.dll
+/home/komma/Documents/Projects/csharp-for-csc-112/example-3/bin/Debug/net9.0/example-3.pdb
+/home/komma/Documents/Projects/csharp-for-csc-112/example-3/obj/Debug/net9.0/example-3.GeneratedMSBuildEditorConfig.editorconfig
+/home/komma/Documents/Projects/csharp-for-csc-112/example-3/obj/Debug/net9.0/example-3.AssemblyInfoInputs.cache
+/home/komma/Documents/Projects/csharp-for-csc-112/example-3/obj/Debug/net9.0/example-3.AssemblyInfo.cs
+/home/komma/Documents/Projects/csharp-for-csc-112/example-3/obj/Debug/net9.0/example-3.csproj.CoreCompileInputs.cache
+/home/komma/Documents/Projects/csharp-for-csc-112/example-3/obj/Debug/net9.0/example-3.sourcelink.json
+/home/komma/Documents/Projects/csharp-for-csc-112/example-3/obj/Debug/net9.0/example-3.dll
+/home/komma/Documents/Projects/csharp-for-csc-112/example-3/obj/Debug/net9.0/refint/example-3.dll
+/home/komma/Documents/Projects/csharp-for-csc-112/example-3/obj/Debug/net9.0/example-3.pdb
+/home/komma/Documents/Projects/csharp-for-csc-112/example-3/obj/Debug/net9.0/example-3.genruntimeconfig.cache
+/home/komma/Documents/Projects/csharp-for-csc-112/example-3/obj/Debug/net9.0/ref/example-3.dll
