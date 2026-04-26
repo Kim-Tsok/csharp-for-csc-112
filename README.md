@@ -28,7 +28,7 @@ The system models relationship between people in a school (Students and Lecturer
     - **Collections**: In `Program.cs`, we put a Student and a Lecturer into a single `List<Person>`. When we loop through them, the computer "magically" knows which introduction to play for each person.
 
 ---
-
+s
 ## Project Structure
 - `Program.cs`: The starting point of the application.
 - `Person.cs`: The **Base Class** (Parent).
